@@ -1,5 +1,4 @@
 # Monitoring
-Репозиторий для третьего задания INT4 PTStart
 
 Автор: Гришин Александр grishin.alieksandr@inbox.ru
 
